@@ -4,6 +4,6 @@ This can be measured with the aid of various machine-learning algorithms. Meanwh
 The objectives of this project include; 
 
 
-a. To predict CO gas 
+a. To predict CO (GT) gas 
 
 b. To define the Air Quality Index and also Predict other Variables.
